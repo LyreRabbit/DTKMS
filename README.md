@@ -1,2 +1,2 @@
 # DTKMS
-Diversified Top-k MaxSAT problem, Benchmarks and data
+Diversified Top-k MaxSAT problem, Benchmarks, data & exe...
